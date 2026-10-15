@@ -2,7 +2,7 @@
     .name = .ogg,
     .fingerprint = 0x45a05c948212d454,
     .version = "1.3.6",
-    .minimum_zig_version = "0.16.0",
+    .minimum_zig_version = "0.17.0",
     .dependencies = .{},
     .paths = .{
         "build.zig",
